@@ -1,6 +1,10 @@
 # LocalVaid-Android
 [HACK-A-THON PROJECT]Android repository for LocalVaid Android app
 
+#Achievement
+* This project won the first prize at Hack4India Hackathon held at Veermata Jijabai Technological Institute's annual festival and was sponsored by Microsoft and Exotel.
+* The SMS port of this project won the first prize at Codeshastra 2016 held by Computer Society of India campus chapter of Dwarkadas J. Sanghvi College of Engineering, Mumbai.
+
 #About Hack-a-thon code:
 
 * This code was written in a hack-a-thon in a span of 48 hours.
