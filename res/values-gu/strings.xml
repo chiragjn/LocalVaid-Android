@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">લોકલ વૈદ</string>
+    <string name="select_language">ભાષા પસંદ કરો</string>
+    <string name="action_settings">સેટિંગ્સ</string>
+    <string name="okay">બરાબર</string>
+    <string name="diagnosis">રોગ નિદાન</string>
+    <string name="nearby_medical_store">નજીકના મેડિકલ સ્ટોર્સ</string>
+    <string name="nearby_hospital">નજીકના હોસ્પિટલ</string>
+    <string name="emergency">ઇમર્જન્સી કોલ</string>
+    <string name="settings">સેટિંગ્સ</string>
+    <string name="unable_to_get_location">સ્થાન મેળવવા માટે અસમર્થ</string>
+    <string name="ask_for_settings">જીપીએસ સક્ષમ નથી. તમે સેટિંગ્સ મેનૂ પર જાઓ કરવા માંગો છો?</string>
+    <string name="no">ના</string>
+    <string name="nearby_hospital_and_medical_stores">નજીકના હોસ્પિટલ અને મેડિકલ સ્ટોર્સ</string>
+    <string name="cancel">રદ કરો</string>
+    <string name="are_you_sure">તમને ખાતરી છે?</string>
+    <string name="you_will_be_connected_to_an_ngo">તમે એક એનજીઓ સાથે જોડાયેલ આવશે જે તમ્હારી વધુ મદદ કરશે</string>
+    <string name="yes_call_now">હા,હવે ફોન કરો</string>
+    <string name="send_message">મોકલવું</string>
+    <string name="send_image">ચિત્ર મોકલવું</string>
+    <string name="send_audio">રેકોર્ડિંગ મોકલવું</string>
+	<string name="medicines">દવા</string>
+	<string name="morning">સવારે</string>
+	<string name="afternoon">બપોરે</string>
+	<string name="night">રાત</string>
+	<string name="add_new_family_member">નવું ઉમેરો</string>
+</resources>

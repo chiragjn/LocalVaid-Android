@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">लोकल वैद</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="action_settings">सेटिंग्ज</string>
+	<string name="okay">ठीक आहे</string>
+	<string name="diagnosis">रोगचिकित्सा</string>
+	<string name="nearby_medical_store">जवळपासची वैद्यकीय स्टोअर्स</string>
+	<string name="nearby_hospital">जवळपासची रुग्णालये</string>
+	<string name="emergency">आणीबाणी कॉल</string>
+	<string name="settings">सेटिंग</string>
+	<string name="unable_to_get_location">स्थान प्राप्त करण्यास अपयशी</string>
+	<string name="ask_for_settings">जीपीएस सक्षम नाही. आपण सेटिंग्ज मेनू जायचे आहे का ?</string>
+	<string name="no">नाही</string>
+	<string name="nearby_hospital_and_medical_stores">जवळपासची हॉस्पिटल व वैद्यकीय स्टोअर्स</string>
+	<string name="cancel">रद्द करा</string>
+	<string name="are_you_sure">तुम्हाला खात्री आहे?</string>
+	<string name="you_will_be_connected_to_an_ngo">आपल्याला एक स्वयंसेवी संस्था कनेक्ट केले जाईल जे आपली पुढे मदत करेल</string>
+	<string name="yes_call_now">होय,आता कॉल करा</string>
+	<string name="send_message">पाठवा</string>
+	<string name="send_image">चित्र पाठवा</string>
+	<string name="send_audio">रेकॉर्डिंग पाठवा</string>
+	<string name="medicines">औषध</string>
+	<string name="morning">सकाळी</string>
+	<string name="afternoon">दुपारी</string>
+	<string name="night">रात्री</string>
+	<string name="add_new_family_member">नवीन जोडा</string>
+</resources>

@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/otp_text"
+        android:layout_below="@+id/number_text"
+        android:hint="@string/location"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/verify_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/otp_text"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="19dp"
+        android:background="@color/primary_red"
+        android:text="@string/verify"
+        android:textColor="@android:color/white"
+        android:textSize="15sp" 
+        android:visibility="invisible"/>
+
+    <EditText
+        android:id="@+id/number_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/location"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="21dp"
+        android:ems="10"
+        android:hint="@string/phone_hint"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/otp_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/number_text"
+        android:layout_alignBottom="@+id/number_text"
+        android:layout_alignParentRight="true"
+        android:ems="10"
+        android:hint="@string/otp"
+        android:inputType="number" 
+        android:visibility="invisible"/>
+
+    <Button
+        android:id="@+id/send_number_button"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignBaseline="@+id/verify_button"
+        android:layout_alignBottom="@+id/verify_button"
+        android:layout_alignLeft="@+id/verify_button"
+        android:background="@color/primary_red"
+        android:text="@string/send"
+        android:textColor="@android:color/white"
+        android:textSize="15sp" />
+
+</RelativeLayout>

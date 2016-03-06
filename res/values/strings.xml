@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Local Vaid</string>
+    <string name="select_language">Select Language</string>
+    <string name="action_settings">Settings</string>
+    <string name="okay">OKAY</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="nearby_medical_store">Nearby Medical Stores</string>
+    <string name="nearby_hospital">Nearby Hospitals</string>
+    <string name="nearby_hospital_and_medical_stores">Nearby Hospitals and Medical Stores</string>
+    <string name="emergency">Emergency Call</string>
+    <string name="settings">Settings</string>
+    <string name="gcm_defaultSenderId">333088741091</string>
+    <string name="unable_to_get_location">Unable to get location</string>
+    <string name="ask_for_settings">GPS is not enabled. Do you want to go to settings menu?</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="you_will_be_connected_to_an_ngo">You will be connected to an NGO which will assist you further</string>
+    <string name="yes_call_now">Yes,Call Now</string>
+    <string name="send_message">SEND</string>
+    <string name="send_image">SEND IMAGE</string>
+    <string name="send_audio">SEND AUDIO</string>
+    <string name="medicines">Medicines</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="night">Night</string>
+    <string name="new_prescription">New Prescription</string>
+    <string name="new_message">New Message</string>
+    <string name="message_notification_description">You have received a new message update from the doctor. Please view it in the Query Conversation list.</string>
+    <string name="prescription_notification_description">You have received a new prescription update from the doctor. Please view it in the Query Prescription list.</string>
+    <string name="error">Some Error Occurred</string>
+    <string name="add_family_name">Name</string>
+    <string name="add_family_age">Age</string>
+    <string name="add_family_weight">Weight	</string>
+    <string name="add_family_heightft">Height feet</string>
+    <string name="add_family_heightin">Height inches</string>
+    <string name="add_family_gender">Gender</string>
+    <string name="add_family_male">Male</string>
+    <string name="add_family_female">Female</string>
+	<string name="reminder">Prescription Alert</string>
+    <string name="reminder_description">This is a reminder to take your prescribed medication</string>
+    <string name="family">Your Family</string>
+    <string name="query">Queries</string>
+    <string name="phone_hint">Phone</string>
+    <string name="send">Send</string>
+    <string name="otp">OTP</string>
+    <string name="verify">Verify</string>
+    <string name="location">Location</string>
+    <string name="add_new_family_member">ADD NEW</string>
+</resources>

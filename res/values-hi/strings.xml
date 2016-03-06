@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">लोकल वैद</string>
+    <string name="select_language">भाषा चुनिए</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="okay">ठीक है</string>
+    <string name="diagnosis">रोग निदान</string>
+    <string name="nearby_medical_store">आस-पास के मेडिकल स्टोर</string>
+    <string name="nearby_hospital">आस-पास के अस्पताल</string>
+    <string name="emergency">आपातकालीन कॉल</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="unable_to_get_location">स्थान प्राप्त करने में असमर्थ</string>
+    <string name="ask_for_settings">जीपीएस सक्षम नहीं है। आप सेटिंग्स मेनू में जाना चाहते हो?</string>
+    <string name="no">नहीं</string>
+    <string name="nearby_hospital_and_medical_stores">आस-पास के अस्पताल और मेडिकल स्टोर</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="are_you_sure">क्या आप निश्चित है ?</string>
+    <string name="you_will_be_connected_to_an_ngo">आपको एक गैर सरकारी संगठन से जोड़ा जाएगा जो आगे आपकी सहायता करेगा</string>
+    <string name="yes_call_now">हाँ,अब कॉल करें </string>
+    <string name="send_message">भेजें</string>
+    <string name="send_image">चित्र भेजें</string>
+    <string name="send_audio">रिकॉर्डिंग भेजें</string>
+    <string name="medicines">दवा</string>
+    <string name="morning">सुबह</string>
+    <string name="afternoon">दोपहर</string>
+    <string name="night">रात</string>
+    <string name="new_prescription">दवा का पचा॔</string>
+    <string name="new_message">नया संदेश</string>
+    <string name="message_notification_description">आपको डॉक्टर ने नया संदेश भेजा है </string>
+    <string name="prescription_notification_description">आपको डॉक्टर ने नया दवाई का पर्चा भेजा है </string>
+    <string name="error">कुछ त्रुटि हुई</string>
+    <string name="add_family_name">नाम</string>
+    <string name="add_family_age">आयु</string>
+    <string name="add_family_weight">भार	</string>
+    <string name="add_family_heightft">ऊंचाई</string>
+    <string name="add_family_heightin">ऊंचाई</string>
+    <string name="add_family_gender">लिंग</string>
+    <string name="add_family_male">नर</string>
+    <string name="add_family_female">महिला</string>
+    <string name="reminder">अनुस्मारक</string>
+    <string name="reminder_description">यह अपनी दवा लेने के लिए एक अनुस्मारक है</string>
+	<string name="family">आपका परिवार</string>
+	<string name="query">प्रश्नों</string>
+    <string name="phone_hint">फ़ोन</string>
+    <string name="send">भेजना</string>
+    <string name="otp">ओटीपी</string>
+    <string name="verify">सत्यापित करें</string>
+    <string name="location">स्थान</string>
+    <string name="add_new_family_member">नया जोड़ो</string>
+	
+</resources>
